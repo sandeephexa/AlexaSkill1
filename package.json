@@ -1,0 +1,23 @@
+{
+  "name": "alexa-skill-app",
+  "version": "1.0.0",
+  "description": "alexa skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeephexa/AlexaSkill1.git"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeephexa/AlexaSkill1/issues"
+  },
+  "homepage": "https://github.com/sandeephexa/AlexaSkill1#readme"
+}
